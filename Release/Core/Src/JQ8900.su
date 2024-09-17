@@ -1,0 +1,12 @@
+../Core/Src/JQ8900.c:24:13:UART_PlayStart	4	static
+../Core/Src/JQ8900.c:28:13:UART_PlayPause	4	static
+../Core/Src/JQ8900.c:32:13:UART_PlayStop	4	static
+../Core/Src/JQ8900.c:36:13:UART_PlayPrevious	4	static
+../Core/Src/JQ8900.c:40:13:UART_PlayNext	4	static
+../Core/Src/JQ8900.c:44:13:UART_PlaySelect	4	static
+../Core/Src/JQ8900.c:48:13:UART_PlayCombine	4	static
+../Core/Src/JQ8900.c:57:13:UART_IncreaseVolume	0	static
+../Core/Src/JQ8900.c:65:13:UART_SetVolume	16	static
+../Core/Src/JQ8900.c:4:13:UART_WriteCmdData	16	dynamic
+../Core/Src/JQ8900.c:61:13:UART_ReduceVolume	0	static
+../Core/Src/JQ8900.c:71:16:CreateJQ8900_UART	120	static

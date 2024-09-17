@@ -1,0 +1,15 @@
+../Core/Src/ILI9341.c:96:20:WriteCmd_8080	4	static
+../Core/Src/ILI9341.c:103:20:WriteData_8080	8	static
+../Core/Src/ILI9341.c:111:13:FastFill_8080_8Bit_565	40	static
+../Core/Src/ILI9341.c:136:20:WriteMem_8080_8Bit_565	16	static
+../Core/Src/ILI9341.c:152:13:ILI9341_DispOn	0	static
+../Core/Src/ILI9341.c:156:13:ILI9341_DispOff	0	static
+../Core/Src/ILI9341.c:161:13:ILI9341_SetWindow	24	static
+../Core/Src/ILI9341.c:177:13:ILI9341_SetCursor	16	static
+../Core/Src/ILI9341.c:222:13:DispRectangle	48	static
+../Core/Src/ILI9341.c:281:16:DispChar	64	static
+../Core/Src/ILI9341.c:327:13:DispStr	64	static
+../Core/Src/ILI9341.c:3:15:CreateColor	8	static
+../Core/Src/ILI9341.c:190:6:SetScrollArea	24	static
+../Core/Src/ILI9341.c:203:6:ScrollOnce	24	static
+../Core/Src/ILI9341.c:385:17:CreateILI9341_8080_8Bit	224	static

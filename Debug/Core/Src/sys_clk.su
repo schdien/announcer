@@ -1,0 +1,16 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:2989:22:LL_RCC_HSI_Enable	4	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3009:26:LL_RCC_HSI_IsReady	4	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3035:22:LL_RCC_HSI_SetCalibTrimming	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3190:22:LL_RCC_SetSysClkSource	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3206:26:LL_RCC_GetSysClkSource	4	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3226:22:LL_RCC_SetAHBPrescaler	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3242:22:LL_RCC_SetAPB1Prescaler	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:3258:22:LL_RCC_SetAPB2Prescaler	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4155:22:LL_RCC_SetTIMPrescaler	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4186:22:LL_RCC_PLL_Enable	4	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4207:26:LL_RCC_PLL_IsReady	4	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:4306:22:LL_RCC_PLL_ConfigDomain_SYS	24	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h:1542:22:LL_FLASH_SetLatency	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h:1568:26:LL_FLASH_GetLatency	4	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h:507:22:LL_PWR_SetRegulVoltageScaling	16	static
+../Core/Src/sys_clk.c:2:6:SystemClockConfig	8	static
